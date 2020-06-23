@@ -2,7 +2,7 @@
 Reminds you to stand up and move around every half hour
 
 ## About
-Most folks spend far too much time sitting, and often get so involved in their current tasks that they forget to move.  every half hour, mycroft will remind you to get up and move around a little.
+Most folks spend far too much time sitting, and often get so involved in their current tasks that they forget to move.  With this skill, every half hour, Mycroft will remind you to get up and move around a little.
 
 ## Examples
 * "Remind me to stand every half hour"
